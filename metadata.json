@@ -1,0 +1,6 @@
+{
+  "name": "Сратоста Бот | Telegram Бот Старосты",
+  "description": "Многофункциональный Telegram-бот старосты группы: расписание пар, домашние задания, дежурства, долги, сборы фонда и AI-поддержка с интерактивным веб-симулятором и подключением к BotFather.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

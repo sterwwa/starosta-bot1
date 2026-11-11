@@ -1,0 +1,14 @@
+meta:
+  environment: node
+  toolchain:
+    name: npm
+    version: 22
+
+build:
+  commands:
+    - npm install
+    - npm run build
+
+run:
+  command: npm start
+  containerPort: 3000
